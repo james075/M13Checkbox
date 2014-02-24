@@ -5,6 +5,10 @@ M13Checkbox
 
 A customizable checkbox for iOS that mimics the checkbox found on OS X, and Safari.
 
+CocoaPods:
+----------
+    pod 'M13Checkbox', '~> 1.0.0'
+
 Features:
 ----------
 * Simple to setup, just initialize with the desired parameters, and add to your subview.
